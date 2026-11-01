@@ -1,0 +1,6 @@
+{
+  "name": "TwilightNote",
+  "description": "Frictionless late-night thought capture with instant auto-save, persistent morning reminders, and AI-powered idea research.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
